@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.container-navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.th-navbar {
+    background-color: rgb(21, 255, 0);
+}
+
+.container-navbar2 {
+    background-color: rgb(21, 255, 0);
+}
+
+.th-table2 {
+    background-color: rgb(0, 234, 255);
+}
+
+.th-table3 {
+    background-color: crimson;
+}
+
+.th-table4 {
+    background-color: gold;
+}
+
+.th-table5 {
+    background-color: fuchsia;
+}
+
+.a-link1 {
+    color: black;
+    text-decoration: none;
+}
